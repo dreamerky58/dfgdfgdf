@@ -28,7 +28,7 @@
     "babel-preset-es2015": "^6.24.1"
   },
   "dependencies": {
-    "mithril": "^1.1.6",
+    "mithril": "^1.1.7",
     "webpack": "^4.12.0",
     "webpack-command": "^0.2.1"
   }
